@@ -41,12 +41,30 @@ function drawShape(){
 function drawLevel1(a){
 	for(var i=0 ; i<a ; i++){
 		_$(Level1_right[i]).show();
+		_$(Level1_left[i]).show();
+	}
+}
+function drawLevel2(a){
+	for(var i=0 ; i<a ; i++){
+		_$(Level2_right[i]).show();
+		_$(Level2_left[i]).show();
 	}
 }
 
 
+function drawLevel3(a){
+	for(var i=0 ; i<a ; i++){
+		_$(Level3_right[i]).show();
+		_$(Level3_left[i]).show();
+	}
+}
 
-
+function drawLevel4(a){
+	for(var i=0 ; i<a ; i++){
+		_$(Level4_right[i]).show();
+		_$(Level4_left[i]).show();
+	}
+}
 
 
 
@@ -99,29 +117,32 @@ var GAME = {
 			var dX = (event.clientX - this.startPosition.x)/g_zoomLevel; //clientX: toa do chuot khi drag - dX: toa do di chuyen chuot
 			dY = (event.clientY - this.startPosition.y)/g_zoomLevel;
 			y1 = y_end+dY;
-			dx = Math.sqrt(175*175 - y1*y1) - x1;
-			x1 = Math.sqrt(175*175 - y1*y1);
-			//console.log("YFIST", dY);
-			//var  test = L-count;
-			count = Math.sqrt(dx*dx +dY*dY);
-			a = parseInt(count/L + 0.5);	
-			console.log(a);		
-			_$("0:549:53:543:44").hide();
-			var m = t+a;			
-			drawLevel1(m);
-			_$("0:1115:91:5:62").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,",x1,",",y1,")"].join("")});
+			var test = y1;
 
+			if(Math.abs(y1) <= R){
+
+				for(var i=1;i<=7;i++){
+					if(y1<=check[i-1]){
+						a=i;
+					}
+				}
+				x1 = Math.sqrt(175*175 - y1*y1);
+				//console.log("YFIST", dY);
+				//var  test = L-count;			
+				
+				_$("0:549:53:543:44").hide();
+					var b=2*a;	
+				
+					drawLevel2(b);
+					_$("0:1115:91:5:62").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,",x1,",",y1,")"].join("")});
+			}
 		}).drag("dragend", function(event) {
 			var dX = (event.clientX - this.startPosition.x)/g_zoomLevel; //clientX: toa do chuot khi drag - dX: toa do di chuyen chuot
 			dY = (event.clientY - this.startPosition.y)/g_zoomLevel;
 			dY = (event.clientY - this.startPosition.y)/g_zoomLevel;
 			x1 = Math.sqrt(175*175 - y1*y1);
-			count = Math.sqrt(dX*dX +dY*dY);
-			t= t+a;
 			y_end = y_end +dY; 
-
-			
-
+		
 		}).css({
 			cursor: "pointer"
 		});
