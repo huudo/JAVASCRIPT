@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="40px" height="13px"
+xml:space="preserve">
+<g id="PathID_272" transform="matrix(0.00970588, 0, 0, 0.00970588, -0.75, 10.95)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M576 -364q172 132 340 304l-80 68q-168 -176 -324 -296q-156 168 -356 300l-76 -68q424 -276 544 -552l-436 28l-12 -96l464 -20l48 -12l64 64q28 28 -16 36q-76 132 -160 244" />
+</g>
+<g id="PathID_273" transform="matrix(0.00970588, 0, 0, 0.00970588, 9.15, 10.95)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M500 -400l-400 0l0 -88l820 0l0 88l-328 0l0 52q0 252 -180 416l-80 -60q168 -132 168 -356l0 -52M244 -644l0 -88l532 0l0 88l-532 0" />
+</g>
+<g id="PathID_274" transform="matrix(0.00970588, 0, 0, 0.00970588, 19.05, 10.95)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M840 -488q-28 260 -144 376q-116 116 -304 184l-52 -76q184 -60 288 -164q112 -112 128 -380l84 28q36 12 0 32M500 -344q-48 -108 -96 -180l76 -40q60 76 104 180l-84 40M296 -284q-48 -112 -100 -188l80 -40q56 76 100 184l-80 44" />
+</g>
+<g id="PathID_275" transform="matrix(0.00970588, 0, 0, 0.00970588, 28.95, 10.95)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M888 -688q32 0 52 -20q20 -20 20 -52q0 -32 -20 -52q-20 -20 -52 -20q-32 0 -52 20q-20 20 -20 52q0 32 20 52q20 20 52 20M888 -648q-48 0 -80 -32q-32 -32 -32 -80q0 -48 32 -80q32 -32 80 -32q48 0 80 32q32 32 32 80q0 48 -32 80q-32 32 -80 32M172 -596l0 -88l592 0l104 76q-20 484 -548 632l-72 -88q500 -116 524 -532l-600 0" />
+</g>
+</svg>

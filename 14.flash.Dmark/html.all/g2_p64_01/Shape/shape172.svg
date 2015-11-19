@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="32px" height="60px"
+xml:space="preserve">
+<g id="600" transform="matrix(1, 0, 0, 1, 0, 3.5)">
+<pattern 
+id="PatternID_600" patternUnits="userSpaceOnUse" overflow="visible" width="10" height="40" viewBox="0 0 10 40" patternTransform="matrix(6.10352e-005, 0.699997, -0.699997, 6.10352e-005, 28, -3.5)"
+>
+<image 
+width="10" height="40"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAoCAYAAADHVmuAAAABI0lEQVR4nO2RMU7DQBRE58/uCpQiKBdABAmJKgIOgGxO4NoKFqDIB+AgHABRIc4BV0CpIozgBtSAs5gi4Ni7tmmABn71NX6amf0GnMnSJLxPk2NXpycIIhGJXF27gkACABudjrPJeEhyRLKfpUnYChphGUlB1AqCElQq1ED5XKZxPOivrTxVPz7n+eb2xdVjzbHX0wGcqVUpremfBBVtCQo8R0XuT+N4UIJ3J4e7JNc9x0olAoDSDbFOJS5iO8CPe8psMh6uGvPQBgLA68t8j5r0HuGOMnLErtgyHhJQ4J/FHZIjbYsistYuhAI7SqszALBze/omuF26ViZLk9AodQ0AubUHW+eXN6XrV7H/4A+CBWCadg8UIG/af6Hj3wS/5c+8A8IAPi3NTujRAAAAAElFTkSuQmCC"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_600) " d="M28,-3.5L28 3.5L0 3.5L0 -3.5L28 -3.5" />
+<pattern 
+id="PatternID_601" patternUnits="userSpaceOnUse" overflow="visible" width="10" height="80" viewBox="0 0 10 80" patternTransform="matrix(0.699997, 0, 0, -0.699997, 24.35, 56)"
+>
+<image 
+width="10" height="80"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAABQCAYAAAAgJ+QsAAABcklEQVR4nO2UQUrDQBiF3/8mUemi0guIFQRXRT2ApJ6g66BBpeQAHsQDiCvxHHoF6apY0Ru4traTcVFN0plpxGxcmLd6/Pl4788fCGBpkib95zQ5t+d0BoKBiAzseWAPBBIB2K5MHA9PuiR7JNuTNOmvBENhXknBYCUISlRaYQmUbzOK4057c/2t/PB9NtvZu7l7XUpstYIIlpZWyaPpngSlWQEKnERFHo3iuJODTxenByS3nMTSSgQAFXhqrZW4qK0Av+4p4+FJdyMMX1aBAPAxnR8yIJ2XsKVCOWNVbV4PiShwz2KLZC/Qxgy01ouBwb4K1BUA6Lm+zASPRWpJkzTph0rdA8BM6+Pd69uHPPWn2gYslJk1r6+dqMm5zzuggsl8vn71/wQ1hD7vgNSaPu9WK4rX197RmOL7ln19UJHG590dtTZe74BKidc7YIUasAEbsAEX+sNfs2RGfN4BMwPl8+6Oqvgdl727Izj1+1/c8RMNSHR9CfjmJQAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_601) " d="M24.35,0L31.35 0L31.35 56L24.35 56L24.35 0" />
+</g>
+</svg>

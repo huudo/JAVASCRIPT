@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="112px"
+xml:space="preserve">
+<g id="613" transform="matrix(1, 0, 0, 1, 4, 232)">
+<pattern 
+id="PatternID_620" patternUnits="userSpaceOnUse" overflow="visible" width="10" height="160" viewBox="0 0 10 160" patternTransform="matrix(0.699997, 0, 0, 0.699997, -4, -232)"
+>
+<image 
+width="10" height="160"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAACgCAYAAAA1tf01AAABnElEQVR4nO2YQUoDQRBFf1UPE7JQDK4Vc4GgHkASDyBzBF259xLZuchCCN5FryA5gAbiGRSGTLcLg9N2VU+GOBuha/Xoean63TQkGSCs+WqCx/ebcJmFaEwB5iJczoRIGAM4ae44Ww7BZgQ2+5ivJnGxb+qRxhRxkc3YixARp4sB2Fx5HzrGbDmU4uFB3U2JUotsxJH4x1SLRLIjZxeYLga1+PB2BjbHQvQifYt5LscGkXgzNi5unhFmyyH2+q9REQA+P84Z/UxuIqy8d83aTZHjMWYA2zuyGWVYVwVQbRZwiiy/BwCsyztYvNRN/ZqvJsjzJwBAWV7i9uj5p+nWsUlMYsciu57KsqOrdA5Fy2uVd8+YxH8vkstVVkSrshDTNUtiEpOYxCQmsXPRGp3F70fKVBaio1JlKcKpLDPGK4lJTGISk9hGJO8dFf1+XxX85yJS+Q+jK1JZiOzl4saM3kPbJJK3AepmM23PsXXH7sXW367OOZWV0TbC4fGwVXn3jK0P3FlWWYjdX7OG2vE+EhmVZUZbqiwzcqUz8AV0LG3ByxNtQgAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_620) " d="M-4,-232L3 -232L3 -120L-4 -120L-4 -232" />
+</g>
+</svg>

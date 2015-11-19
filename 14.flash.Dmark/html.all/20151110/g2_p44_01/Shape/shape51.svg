@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="454px" height="29px"
+xml:space="preserve">
+<g id="312" transform="matrix(1, 0, 0, 1, 227, 29)">
+<pattern 
+id="PatternID_236" patternUnits="userSpaceOnUse" overflow="visible" width="454" height="29" viewBox="0 0 454 29" patternTransform="matrix(1, 0, 0, 1, -227, -29)"
+>
+<image 
+width="454" height="29"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAcYAAAAdCAYAAAAw7MxxAAAA0ElEQVR4nO3YOwrCQBiFUTO4MHEh4j4Cgs2QXQmuwA1lxvY2msZHAue08xe3+2CGaZr67o15no/jON7e3QDAFtRar6WUy6v31tq9/HIQAKydMAJAEEYACMIIAEEYASAIIwAEYQSAIIwAEIQRAIIwAkAQRgAIwggAQRgBIAgjAARhBIAgjAAQhBEAgjACQBBGAAj7pYNhGM611sMPtgDAtx2WDhbDWEo5fWQKAGyAr1QACMIIAEEYASAIIwAEYQSAIIwAEPattfu/RwDAGvTeH09v3xj1pZWcLQAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_236) " d="M-227,-29L227 -29L227 0L-227 0L-227 -29" />
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="7px" height="28px"
+xml:space="preserve">
+<g id="616" transform="matrix(1, 0, 0, 1, 4, 258.35)">
+<pattern 
+id="PatternID_623" patternUnits="userSpaceOnUse" overflow="visible" width="10" height="40" viewBox="0 0 10 40" patternTransform="matrix(0.699997, 0, 0, 0.699997, -4, -258.35)"
+>
+<image 
+width="10" height="40"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAoCAYAAADHVmuAAAAA90lEQVR4nO3SMUrEQBTG8X/eG0ZSKC7WLuYCi3oASTyA5Aha2XuJ7SxSCMG76BVkD6CBeAaFsCsWBmeY2XHBOq9885vvvQyBsNq+4vH9JmxLBFVrROqwbSKYUQInfyc2XYHoAtED2r5Kw1zdSNU6DUVLb4UEXK5miF55l+Y0XRHDo0OXtmUVB0WjJ/GfycEsixPFXLBczRx8eDtDdB5Bb6UfaG08NlhJxrFpOJ5lNF3Bfv6ahACfH+dCbuKPCMvuXcu2PyUeTynA7kTRhWG9qWEzNjjF2HsA1sMdX7y4UL/avsLaJwCG4ZLb4+ff0J1jJzjBCf4LfgP/MSjRrET1aQAAAABJRU5ErkJggj=="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_623) " d="M-4,-258.35L3 -258.35L3 -230.35L-4 -230.35L-4 -258.35" />
+</g>
+</svg>

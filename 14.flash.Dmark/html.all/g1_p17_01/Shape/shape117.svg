@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="104px" height="619px"
+xml:space="preserve">
+<g id="34" transform="matrix(1, 0, 0, 1, 52, -1)">
+<pattern 
+id="PatternID_26" patternUnits="userSpaceOnUse" overflow="visible" width="108" height="60" viewBox="0 0 108 60" patternTransform="matrix(0.962967, 0, 0, 10.3168, -52, 1)"
+>
+<image 
+width="108" height="60"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGwAAAA8CAYAAACD6F86AAAAp0lEQVR4nO3RUQkAIBTAwKfN7F/KDH7J4C7BYGtmzpCxfwfwxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2IMizEsxrAYw2Iu9OMAueaLoHUAAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_26) " d="M-52,1L52 1L52 620L-52 620L-52 1" />
+<pattern 
+id="PatternID_27" patternUnits="userSpaceOnUse" overflow="visible" width="100" height="56" viewBox="0 0 100 56" patternTransform="matrix(1, 0, 0, 10.9996, -50, 2)"
+>
+<image 
+width="100" height="56"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGQAAAA4CAYAAAALrl3YAAAAn0lEQVR4nO3RsQ0AIRDAsOf3n/gaqJmAFPYEkbJmZn9k/K8DuBkSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0iMITGGxBgSY0jMAfC9BF096SDZAAAAAElFTkSuQmCC"
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_27) " d="M-50,2L50 2L50 618L-50 618L-50 2" />
+</g>
+</svg>

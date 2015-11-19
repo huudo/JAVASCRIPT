@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="83px" height="72px"
+xml:space="preserve">
+<g id="311" transform="matrix(1, 0, 0, 1, 41.5, 72)">
+<pattern 
+id="PatternID_235" patternUnits="userSpaceOnUse" overflow="visible" width="83" height="72" viewBox="0 0 83 72" patternTransform="matrix(1, 0, 0, 1, -41.5, -72)"
+>
+<image 
+width="83" height="72"
+xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAFMAAABICAYAAACKo8lYAAADyElEQVR4nOWbT07cMBjFnefAbixxgVGnB0BwgZG4QFV6ACRuALvZUA2TicWSI3CCHqGLHqBqL9BKvUClbIHQTUD8mcR2Yvs5098KQYitpw/8Pn9vhEicoihmWuuf7H3YAPYGTEgplwD2tdaX7L2YyNgb6KIsyyMp5VchhKjruqqq6t3V1dVf9r7aSLoysyy7fvwagFJKXXc9zyZZMbXWpwD2n38PwElZlkesPZlIUszFYrEnhNhYhVmWLePuxp4kxVRKnQFQm34GYK61Po29JxuSO4CKopjt7Oz86nqmrus/VVUdpHYYJVeZAIyHDICpUuosxn5cSKoyn1shE3VdV/f39wcXFxe/Q+/LlqQqM8uyG9tnASibKo5JMmKWZXkOYOryO1LKDylZpSTEXCwWe30tz3NjzyYJMSeTybLNCplo+vYkrBL9AFqtVoe7u7vfh7wjlb6dXpl5ng/+M236drpVolbmer0+zvP8i6/33d7evmdaJWpl+rY2Usobn+9zhSam1vrS1QqZADBnWiWKmM2tUJD/cS7G3zcUMZVS132tkAkA07Isz0O820T0A8il/+4LyypFr8wYl7usEUdUMZtRxDzGWgBOVqvVYYy1ntaMtVBz6CxjrSeEn4bAhWhiNqMIr1bIBID5er0+jrZejEWKopiJQFbIRMw7zyhiAghmhSzWnsZKgwS3RjGskIlYI47glZnC5S0AJaVcBl8n5Ms3pTJYxEiDBBOzK5XBInTDEEzMrlQGi9BpkCAHkE0qg0XINEiQymRf0nYRMg3ivTJTsEI2hBhxeK9M5uWsCyE6I69i9kllsAiRBvEm5pBUBgvfDYU3MYekMlj4ToN4OYB8pDJY+BxxeKnM2JewPgGgJpPJ0se7Blem71QGCx9WaXBlphY47YuPRmOQmCFSGSx8pEF6ixkylcFiaMPRW8yQqQwWQ0ccvQ6gsfTffRhilXpV5tg6HReGpEGcxYyZymDRNw3iJCYjlcGiTyPiJCYjlcGiTxrE+gAqimImpfyxbSd4F64jDuvKZKYyWLiOOKwqc5utkAmXNIhVZaaQymDhkgYxiplSKoOFbRqkU8wUUxksbBqVTjHHOIoIhU0apPUASjmVwcLUt7dWZsqpDBamD7xurMz/2QrZ0Dbi2FiZY0llsGgb1bwRc0ypDBZtaZAXYo4xlcFiUyPzQsxtHEWEAsD+6w+8Ph1AY05lsHhtlZ4qc8ypDBav0yCZENuTymDxaJUgxPakMlg8NjhZk8r4TN7P6Lm7u/uUPzw8HNR1/Y29mbED4OM/0QBXXn42SEQAAAAASUVORK5CYII="
+>
+</image>
+</pattern>
+<path style="fill:url(#PatternID_235) " d="M-41.5,-72L41.5 -72L41.5 0L-41.5 0L-41.5 -72" />
+</g>
+</svg>

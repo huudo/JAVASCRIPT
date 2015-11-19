@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="77px" height="21px"
+xml:space="preserve">
+<g id="PathID_1281" transform="matrix(0.0196078, 0, 0, 0.0196078, -1.65, 17.75)">
+<path style="fill:#666666;fill-opacity:1" d="M576 -364q172 132 340 304l-80 68q-168 -176 -324 -296q-156 168 -356 300l-76 -68q424 -276 544 -552l-436 28l-12 -96l464 -20l48 -12l64 64q28 28 -16 36q-76 132 -160 244" />
+</g>
+<g id="PathID_1282" transform="matrix(0.0196078, 0, 0, 0.0196078, 18.35, 17.75)">
+<path style="fill:#666666;fill-opacity:1" d="M472 -744q-16 48 -40 92l268 0l44 -16l52 52q16 20 -16 32q-32 160 -96 292l96 64l-60 88l-88 -64q-116 168 -332 276l-92 -68q240 -100 344 -264q-100 -64 -196 -116l48 -72q124 56 204 104q60 -124 72 -220l-292 0q-76 136 -188 248l-76 -52q204 -212 268 -448l96 40q32 16 -16 32" />
+</g>
+<g id="PathID_1283" transform="matrix(0.0196078, 0, 0, 0.0196078, 38.35, 17.75)">
+<path style="fill:#666666;fill-opacity:1" d="M64 -328l0 -88l892 0l0 88l-892 0" />
+</g>
+<g id="PathID_1284" transform="matrix(0.0196078, 0, 0, 0.0196078, 58.35, 17.75)">
+<path style="fill:#666666;fill-opacity:1" d="M480 -480q196 56 396 152l-48 92q-212 -108 -348 -144l0 416l-92 0l0 -800l80 0q48 4 12 32l0 252" />
+</g>
+</svg>
