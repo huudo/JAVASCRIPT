@@ -10,7 +10,7 @@ var TABS = {
 
 	tabId: {//A, B, F, G, M
 		'home': [
-			BTN_START	// 次へ
+			BTN_DETAILS	// 次へ
 			// BTN_BACK_ID,	// 戻る
 			// BTN_RESET_ID 	// はじめに戻る
 		],

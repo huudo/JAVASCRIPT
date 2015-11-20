@@ -67,6 +67,7 @@ var g_zoomLevel = 1;
 		}
 	}
 
+
 function AjustText(){
 	_$("0:549:53:563:38").hide();
 	_$("0:3:43:543:38").hide();
@@ -100,13 +101,12 @@ _$(h).hide();
 
 	_$("0:3:43").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,543,335)"].join("")});
 	_$("0:549:53").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,543,335)"].join("")});
-	_$("0:1115:91:5:62").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,116.8,130.4)"]});
+	_$("0:1115:91:5:62").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,116.8,130)"]});
 
 	_$("0:549:53:565:42:2:41:1:40").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"});	// r
 	_$("0:549:53:557:52:5:51").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"}); // r
 
-;
-
+	;
 
 }	
 	
