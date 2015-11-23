@@ -69,12 +69,12 @@ var g_zoomLevel = 1;
 
 
 function AjustText(){
-	_$("0:549:53:563:38").hide();
-	_$("0:3:43:543:38").hide();
+	
+	//_$("0:3:43:543:38").hide();
 	_$("0:1115:91:1:55").hide();
 	_$("0:1115:91:3:57").hide();
 	_$("0:1115:91:5:62:2:61").hide();
-for(var i=0; i<=8;i++){
+for(var i=2; i<=8;i++){
 	_$(Level1_right[i]).hide();
 	_$(Level1_left[i]).hide();
 }
@@ -91,23 +91,46 @@ for(var i=0; i<=72;i++){
 	_$(Level4_right[i]).hide();
 	_$(Level4_left[i]).hide();
 }
-var h = Level1_right[0];
-_$(h).hide();
 
-	_$("0:549:53:557:52").hide(); // Thuoc'
-	_$("0:549:53:552:49").hide();  //1/2L
+for(var i=2; i<=8;i++){
+	_$(Level1_right2[i]).hide();
+	_$(Level1_left2[i]).hide();
+}
+for(var i=0; i<=17;i++){
+	_$(Level2_right2[i]).hide();
+	_$(Level2_left2[i]).hide();
+}
+for(var i=0; i<=35;i++){
+	_$(Level3_right2[i]).hide();
+	_$(Level3_left2[i]).hide();
 
-	_$("0:3:43").hide(); // Vong` chi tiet
+}
+for(var i=0; i<=72;i++){
+	_$(Level4_right2[i]).hide();
+	_$(Level4_left2[i]).hide();
+}
 
+
+	//_$("0:549:53:557:52").hide(); // Thuoc'
+	//_$("0:549:53:552:49").hide();  //1/2L
+
+	_$("0:549:53:552:49").hide();
+	_$("0:549:53:557:52").hide();
+
+	
 	_$("0:3:43").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,543,335)"].join("")});
 	_$("0:549:53").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,543,335)"].join("")});
 	_$("0:1115:91:5:62").find("g").first().attr({transform: ["matrix(0.75,0,0,0.75,116.8,130)"]});
 
+	_$("0:549:53:563:38").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"}); // L
+	_$("0:3:43:543:38").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"}); // L
+	_$("0:549:53:552:49").find("text").css({"font-family":"MS Mincho"});
 	_$("0:549:53:565:42:2:41:1:40").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"});	// r
 	_$("0:549:53:557:52:5:51").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"}); // r
 
-	;
-
+	_$("0:3:43:545:42:2:41:1:40").find("text").attr({x:59.45 , y:40}).css({"font-family":"MS Mincho"}); // r
+	
+	
 }	
 	
 	
